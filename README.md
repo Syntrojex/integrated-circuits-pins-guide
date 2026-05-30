@@ -48,3 +48,11 @@
 | **74LS157** | MUX | 2-to-1 Multiplexer |
 | **74LS153** | MUX | Dual 4-to-1 Line Multiplexer |
 | **74LS151** | MUX | 8-to-1 Line Multiplexer |
+
+### 🔷 Flip-Flops
+| IC | Type | Description |
+|----|------|-------------|
+| **7474** | D FF | Dual D-Type Flip-Flop |
+| **LS76A** | JK FF | Dual JK Flip-Flop |
+
+---
