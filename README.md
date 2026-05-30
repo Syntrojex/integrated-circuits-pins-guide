@@ -20,3 +20,18 @@
 | [A Guide to Integrated Circuits (ICs).pdf](./A_guide_to_Integrated_Circuits__IC_s_.pdf) | Complete IC pinout diagrams |
 
 ---
+
+## 🔌 ICs Covered
+
+### 🔷 Logic Gates
+| IC | Type | Description |
+|----|------|-------------|
+| **7400** | NAND | Quad 2-Input NAND Gate |
+| **7402** | NOR | Quad 2-Input NOR Gate |
+| **7404** | NOT | Hex Inverter |
+| **7408** | AND | Quad 2-Input AND Gate |
+| **7409** | AND | Quad 2-Input AND Gate (Open Collector) |
+| **7410** | NAND | Triple 3-Input NAND Gate |
+| **7420** | NAND | Dual 4-Input NAND Gate |
+| **7432** | OR | Quad 2-Input OR Gate |
+| **7486** | XOR | Quad 2-Input XOR Gate |
