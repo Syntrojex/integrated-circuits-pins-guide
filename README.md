@@ -41,3 +41,10 @@
 |----|------|-------------|
 | **74LS138** | Decoder | 3-to-8 Line Decoder |
 | **74LS139** | Decoder | Dual 2-to-4 Line Decoder |
+
+### 🔷 Multiplexers
+| IC | Type | Description |
+|----|------|-------------|
+| **74LS157** | MUX | 2-to-1 Multiplexer |
+| **74LS153** | MUX | Dual 4-to-1 Line Multiplexer |
+| **74LS151** | MUX | 8-to-1 Line Multiplexer |
