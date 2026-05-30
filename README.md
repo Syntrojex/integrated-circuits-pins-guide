@@ -35,3 +35,9 @@
 | **7420** | NAND | Dual 4-Input NAND Gate |
 | **7432** | OR | Quad 2-Input OR Gate |
 | **7486** | XOR | Quad 2-Input XOR Gate |
+
+### 🔷 Decoders
+| IC | Type | Description |
+|----|------|-------------|
+| **74LS138** | Decoder | 3-to-8 Line Decoder |
+| **74LS139** | Decoder | Dual 2-to-4 Line Decoder |
