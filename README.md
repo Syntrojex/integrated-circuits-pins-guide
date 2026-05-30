@@ -10,3 +10,13 @@
 ![](https://img.shields.io/badge/FAST%20NUCES-Reference%20Material-darkblue?style=flat-square)
 
 </div>
+
+---
+
+## 📄 Reference Guide
+
+| File | Contents |
+|------|----------|
+| [A Guide to Integrated Circuits (ICs).pdf](./A_guide_to_Integrated_Circuits__IC_s_.pdf) | Complete IC pinout diagrams |
+
+---
