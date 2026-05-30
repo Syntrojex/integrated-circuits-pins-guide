@@ -67,3 +67,14 @@ CLR  → Clear/Reset pin\
 PR   → Preset pin\
 
 ---
+
+## 📌 Note
+
+Shared as DLD lab reference material for **FAST NUCES** students.
+Useful for identifying IC pins during breadboard experiments.
+
+---
+
+<div align="center">
+<i>If this helped your lab work — drop a ⭐</i>
+</div>
