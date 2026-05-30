@@ -56,3 +56,14 @@
 | **LS76A** | JK FF | Dual JK Flip-Flop |
 
 ---
+
+## 💡 Quick Reference
+VCC  → Power supply pin (+5V)
+GND  → Ground (0V)
+A, B → Input pins
+Y    → Output pin
+CLK  → Clock input (Flip-Flops)
+CLR  → Clear/Reset pin
+PR   → Preset pin
+
+---
