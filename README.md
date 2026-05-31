@@ -13,18 +13,20 @@
 
 ---
 
-## 🧠 What is an IC?
-
-An **Integrated Circuit (IC)** is a chip containing electronic components
-performing logical operations on binary inputs (0 and 1).
-
----
-
 ## 📄 Reference Guide
 
 | File | Contents |
 |------|----------|
 | [A Guide to Integrated Circuits (ICs).pdf](./A_guide_to_Integrated_Circuits__IC_s_.pdf) | Complete IC pinout diagrams |
+
+> 💡 GitHub can't preview PDFs — click **Download** to open locally.
+
+---
+
+## 🧠 What is an IC?
+
+An **Integrated Circuit (IC)** is a chip containing electronic components
+performing logical operations on binary inputs (0 and 1).
 
 ---
 
