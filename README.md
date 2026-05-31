@@ -80,7 +80,7 @@ PR   → Preset pin\
 ## 📌 Note
 
 Shared as DLD lab reference material for **FAST NUCES** students.
-Useful for identifying Integrated Circuits pins during breadboard experiments.
+Useful for identifying IC's pins during breadboard experiments.
 
 ---
 
