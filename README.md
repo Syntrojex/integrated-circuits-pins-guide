@@ -19,7 +19,7 @@
 |------|----------|
 | [A Guide to Integrated Circuits (ICs).pdf](./A_guide_to_Integrated_Circuits__IC_s_.pdf) | Complete IC pinout diagrams |
 
-> 💡 GitHub can't preview PDFs — click **Download** and open locally.
+> 💡 GitHub usually can't preview PDFs — click **Download** and open locally.
 
 ---
 
@@ -80,7 +80,7 @@ PR   → Preset pin\
 ## 📌 Note
 
 Shared as DLD lab reference material for **FAST NUCES** students.
-Useful for identifying IC pins during breadboard experiments.
+Useful for identifying Integrated Circuits pins during breadboard experiments.
 
 ---
 
