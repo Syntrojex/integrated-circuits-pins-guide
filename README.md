@@ -7,8 +7,7 @@
 *Logic Gates · Decoders · Multiplexers · Flip-Flops*
 
 ![](https://img.shields.io/badge/DLD-Lab%20Reference-2563eb?style=for-the-badge)
-![](https://img.shields.io/badge/Logic%20Gates-9%20ICs-16a34a?style=for-the-badge)
-![](https://img.shields.io/badge/Flip--Flops-2%20ICs-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/Logic%20Gates-a34a?style=for-the-badge)
 ![](https://img.shields.io/badge/FAST%20NUCES-Reference-dc2626?style=for-the-badge)
 
 </div>
