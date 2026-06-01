@@ -2,7 +2,8 @@
 
 # 📌 A Guide to Integrated Circuits (ICs)
 
-**Pinout Reference for Common Digital Logic ICs**
+**Complete Pinout & Reference Guide for Digital Logic ICs**
+
 *Logic Gates · Decoders · Multiplexers · Flip-Flops*
 
 ![](https://img.shields.io/badge/DLD-Lab%20Reference-2563eb?style=for-the-badge)
@@ -26,5 +27,7 @@
 
 ## 🧠 What is an IC?
 
-An **Integrated Circuit (IC)** is a chip containing electronic components
-performing logical operations on binary inputs (0 and 1).
+An **Integrated Circuit (IC)** is a small chip that contains electronic components
+(transistors, resistors, etc.) built into a single package.
+In **Digital Logic Design (DLD)**, ICs are used to perform logical operations
+on binary inputs (0 and 1).
