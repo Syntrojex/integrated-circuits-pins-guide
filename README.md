@@ -70,3 +70,23 @@ on binary inputs (0 and 1).
 ---
 
 ## 💡 Quick Reference
+VCC  → Power supply pin (+5V)\
+GND  → Ground (0V)\
+A, B → Input pins\
+Y    → Output pin\
+CLK  → Clock input (Flip-Flops)\
+CLR  → Clear/Reset pin\
+PR   → Preset pin
+
+---
+
+## 📌 Note
+
+Shared as DLD lab reference material for **FAST NUCES** students.
+Useful for identifying IC pins during breadboard experiments.
+
+---
+
+<div align="center">
+<i>If this helped your lab work — drop a ⭐</i>
+</div>
