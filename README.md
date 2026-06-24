@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # 📌 A Guide to Integrated Circuits (ICs)
 
